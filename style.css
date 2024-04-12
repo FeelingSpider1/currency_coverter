@@ -1,0 +1,165 @@
+body {
+    
+    background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGsyZTVnNzFlYjgydXl2amluNGgxMnJuc2Z6MWxnMWk1andheXNubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif);
+}
+
+
+
+.box {
+    height: 340px;
+    width: 70%;
+    background-color: #000000;
+    margin: auto;
+    text-align:center;
+    color: rgb(0, 255, 0);
+    border-color: rgb(123, 255, 0);
+    border-style: solid;
+}
+
+#button {
+position: relative;
+left: 917px;
+bottom: 100px;
+width: 100px;
+height: 50px;
+background-color: black;
+color: rgb(0, 255, 0);
+border-color: rgb(123, 255, 0);
+border-style: solid;
+cursor: pointer;
+}
+
+#sus{
+    position: relative;
+    left: 400px;
+    bottom: 200px;
+    height: 50px;
+    width: 300px;
+    background-color: black;
+    color: rgb(0, 255, 0);
+    border-color: rgb(123, 255, 0);
+    border-style: solid;
+    cursor: pointer;
+}
+
+#skibidi_toilet{
+    position: relative;
+    left: 705px;
+    bottom: 200px;
+    height: 50px;
+    width: 300px;
+    background-color: black;
+    color: rgb(0, 255, 0);
+    border-color: rgb(123, 255, 0);
+    border-style: solid;
+}
+
+#nenene{
+    left: 880px;
+    position: relative;
+    bottom: 330px;
+    height: 100px;
+}
+
+
+
+#n{
+    left: 1050px;
+    position: relative;
+    bottom: 210px;
+    height: 100px;
+}
+
+
+
+#e{
+    left: 1020px;
+    position: relative;
+    bottom: 210px;
+    height: 100px;
+}
+
+
+#r{
+    left: -80px;
+    position: relative;
+    bottom: 210px;
+    height: 100px;
+}
+
+
+#what{
+    left: 270px;
+    position: relative;
+    bottom: 210px;
+    height: 100px;
+}
+#re{
+    left: 580px;
+    position: relative;
+    bottom: 210px;
+    height: 100px;
+}
+#le{
+    left: 300px;
+    position: relative;
+    bottom: 210px;
+    height: 100px;
+}
+
+
+#l{
+    right: 470px;
+    position: relative;
+    bottom: 210px;
+    height: 100px;
+}
+
+#er{
+    right: 50px;
+    position: relative;
+    bottom: 210px;
+    height: 100px;
+}
+
+#why{
+    left: -265px;
+    position: relative;
+    bottom: 210px;
+    height: 100px;
+}
+
+
+#u{
+    left: 50px;
+    position: relative;
+    bottom: 210px;
+    height: 100px;
+}
+
+#cs2{
+    position: relative;
+    left: 505px;
+    bottom: 450px;
+    height: 50px;
+    width: 307px;
+    background-color: black;
+    color: rgb(0, 255, 0);
+    border-color: rgb(123, 255, 0);
+    border-style: solid;
+    cursor: pointer;
+}
+
+
+#cs3{
+    position: relative;
+    left: 1122px;
+    bottom: 500px;
+    height: 50px;
+    width: 307px;
+    background-color: black;
+    color: rgb(0, 255, 0);
+    border-color: rgb(123, 255, 0);
+    border-style: solid;
+    cursor: pointer;
+}
